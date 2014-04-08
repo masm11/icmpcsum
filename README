@@ -25,3 +25,8 @@ ICMP checksum をいじるツール
   TCP/IP protocol stack, iptables, netfilter, C言語, bash shell script
   など。このプログラムは、これらの知識を十分に持っている人を対象として
   いる。
+
+
+作者
+
+  Yuuki Harano <masm@flowernet.gr.jp>
